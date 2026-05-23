@@ -801,72 +801,45 @@ Ces compétences sont fondamentales pour :
 - le reverse engineering Android
 - l’analyse de sécurité applicative
 - les challenges OWASP MSTG
-# 📸 Captures d’écran du laboratoire
 
-## Capture 1 — Ouverture de l’APK dans JADX
+## 📸 Screenshots
 
-![Capture JADX](./screenshots/capture_1.png)
-
----
-
-## Capture 2 — Analyse du fichier AndroidManifest.xml
-
-![AndroidManifest](./screenshots/capture_2.png)
+### Capture 1
+<img src="Capture d’écran 2026-05-23 104655.png" width="900">
 
 ---
 
-## Capture 3 — Exploration des classes Java
-
-![Classes Java](./screenshots/capture_3.png)
-
----
-
-## Capture 4 — Vérification du hash et structure APK
-
-![Hash APK](./screenshots/capture_4.png)
+### Capture 2
+<img src="Capture d’écran 2026-05-23 104724.png" width="900">
 
 ---
 
-## Capture 5 — Recherche de chaînes sensibles
-
-![Recherche chaînes](./screenshots/capture_5.png)
-
----
-
-## Capture 6 — Extraction des fichiers DEX
-
-![DEX Extraction](./screenshots/capture_6.png)
+### Capture 3
+<img src="Capture d’écran 2026-05-23 104737.png" width="900">
 
 ---
 
-## Capture 7 — Conversion DEX vers JAR
-
-![DEX2JAR](./screenshots/capture_7.png)
-
----
-
-## Capture 8 — Analyse dans JD-GUI
-
-![JD-GUI](./screenshots/capture_8.png)
+### Capture 4
+<img src="Capture d’écran 2026-05-23 104803.png" width="900">
 
 ---
 
-
-## Capture 6 — Extraction des fichiers DEX
-
-![DEX Extraction](screenshots/capture_6.png)
+### Capture 5
+<img src="Capture d’écran 2026-05-23 104818.png" width="900">
 
 ---
 
-## Capture 7 — Conversion DEX vers JAR
-
-![DEX2JAR](screenshots/capture_7.png)
+### Capture 6
+<img src="Capture d’écran 2026-05-23 104845.png" width="900">
 
 ---
 
-## Capture 8 — Analyse dans JD-GUI
+### Capture 7
+<img src="Capture d’écran 2026-05-23 104859.png" width="900">
 
-![JD-GUI](screenshots/capture_8.png)
+---
 
+### Capture 8
+<img src="Capture d’écran 2026-05-23 104910.png" width="900">
 
 
