@@ -851,7 +851,7 @@ Ces compétences sont fondamentales pour :
 
 ---
 
-# 🧾 Fin du laboratoire
+
 ## Capture 6 — Extraction des fichiers DEX
 
 ![DEX Extraction](screenshots/capture_6.png)
@@ -868,5 +868,5 @@ Ces compétences sont fondamentales pour :
 
 ![JD-GUI](screenshots/capture_8.png)
 
----
+
 
