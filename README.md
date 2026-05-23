@@ -801,39 +801,57 @@ Ces compétences sont fondamentales pour :
 - le reverse engineering Android
 - l’analyse de sécurité applicative
 - les challenges OWASP MSTG
-
-  # 📸 Captures d’écran du laboratoire
+# 📸 Captures d’écran du laboratoire
 
 ## Capture 1 — Ouverture de l’APK dans JADX
 
-![Capture JADX](screenshots/capture_1.png)
+![Capture JADX](./screenshots/capture_1.png)
 
 ---
 
 ## Capture 2 — Analyse du fichier AndroidManifest.xml
 
-![AndroidManifest](screenshots/capture_2.png)
+![AndroidManifest](./screenshots/capture_2.png)
 
 ---
 
 ## Capture 3 — Exploration des classes Java
 
-![Classes Java](screenshots/capture_3.png)
+![Classes Java](./screenshots/capture_3.png)
 
 ---
 
 ## Capture 4 — Vérification du hash et structure APK
 
-![Hash APK](screenshots/capture_4.png)
+![Hash APK](./screenshots/capture_4.png)
 
 ---
 
 ## Capture 5 — Recherche de chaînes sensibles
 
-![Recherche chaînes](screenshots/capture_5.png)
+![Recherche chaînes](./screenshots/capture_5.png)
 
 ---
 
+## Capture 6 — Extraction des fichiers DEX
+
+![DEX Extraction](./screenshots/capture_6.png)
+
+---
+
+## Capture 7 — Conversion DEX vers JAR
+
+![DEX2JAR](./screenshots/capture_7.png)
+
+---
+
+## Capture 8 — Analyse dans JD-GUI
+
+![JD-GUI](./screenshots/capture_8.png)
+
+---
+
+# 🧾 Fin du laboratoire
 ## Capture 6 — Extraction des fichiers DEX
 
 ![DEX Extraction](screenshots/capture_6.png)
